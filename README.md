@@ -1,4 +1,4 @@
-## Hi there 👋
+<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there!</h3>
 
 15 years of Software and Cloud Engineering experience.  Currently managing the Cloud Engineering team at [Dexcom](https://www.dexcom.com/en-us).
 
